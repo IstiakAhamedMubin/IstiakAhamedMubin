@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Istiak Ahamed
 **A passionate CS Student from Bangladesh
 
-- 🔭 **I’m currently working on: Java Project
-- 🌱 **I’m currently learning: Something New
-- 🤔 **I’m looking for help with:  DSA Project
-- 💬 **Ask me about:** Tech
-- 📫 **How to reach me: 2024100000273@seu.edu.bd
-- 😄 **Pronouns: Istiak Ahamed
-- ⚡ **Fun fact: I think I am lazy
+- 🔭 **I’m currently working on : Java Project
+- 🌱 **I’m currently learning : Something New
+- 🤔 **I’m looking for help with :  DSA Project
+- 💬 **Ask me about : Tech
+- 📫 **How to reach me : 2024100000273@seu.edu.bd
+- 😄 **Pronouns : Istiak Ahamed
+- ⚡ **Fun fact : I think I am lazy
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/istiak_mubin_ig)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2024100000273@seu.edu.bd) 
