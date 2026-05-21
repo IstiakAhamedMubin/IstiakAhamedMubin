@@ -1,3 +1,4 @@
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=435&lines=Hi+I'm+Istiak;CSE+Student;Frontend+Learner
 # 💫 Hi 👋, I'm Istiak Ahamed Mubin
 **A passionate CS Student from Bangladesh
 
