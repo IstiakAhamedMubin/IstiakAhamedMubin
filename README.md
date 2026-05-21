@@ -1,38 +1,37 @@
-<h1 align="center">Hi 👋, I'm Istiak Ahamed Mubin</h1>
-<h3 align="center">A passionate CS Student from Bangladesh</h3>
+# 💫 Hi 👋, I'm Imran Alam
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakahamedmubin&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahamedmubin" /> </p>
+Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=istiakahamedmubin" alt="istiakahamedmubin" /></a> </p>
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-- 🔭 I’m currently working on [Java Project](https://github.com/IstiakAhamedMubin/Java-Opps)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Istiak Ahamed Mubin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/istiak_mubin_ig) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Istiak Official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2024100000273@seu.edu.bd) 
 
-- 🌱 I’m currently learning **Data Structure & Algorithm**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=IstiakAhamedMubin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=IstiakAhamedMubin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=IstiakAhamedMubin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🤝 I’m looking for help with **DSA Project**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IstiakAhamedMubin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📝 I regularly write articles on [Notion](Notion)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💬 Ask me about **Gaming**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IstiakAhamedMubin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me **istiakop800@gmail.com**
+---
+[![](https://komarev.com/ghpvc/?username=IstiakAhamedMubin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📄 Know about my experiences [Currently No Resume]
-
-- ⚡ Fun fact **I think I am lazy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/istiak ahamed mubin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak ahamed mubin" height="30" width="40" /></a>
-<a href="https://instagram.com/istiak_mubin_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="istiak_mubin_ig" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/istiak_ahamed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="istiak_ahamed7" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakahamedmubin&show_icons=true&locale=en&layout=compact" alt="istiakahamedmubin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istiakahamedmubin&show_icons=true&locale=en" alt="istiakahamedmubin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istiakahamedmubin&" alt="istiakahamedmubin" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
