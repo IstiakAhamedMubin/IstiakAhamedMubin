@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Istiak Ahamed
+# 💫 Hi 👋, I'm Istiak Ahamed Mubin
 **A passionate CS Student from Bangladesh
 
 - 🔭 **I’m currently working on : Java Project
