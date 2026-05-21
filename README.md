@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Istiak Ahamed
-**A passionate CS Student
+**A passionate CS Student from Bangladesh
 
 - 🔭 **I’m currently working on:**Java Project
 - 🌱 **I’m currently learning:**Something New
