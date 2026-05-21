@@ -22,9 +22,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/istiak_mubin_ig)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2024100000273@seu.edu.bd) 
 
 ## 🧠 My Focus Areas
+
+- Data Structure & Algorithm
 - Web Development
 - Software Development
-- AI & Machine Learning
+- AI & Machine Learning 
 
 
 ## 📊 GitHub Stats & Trophies
