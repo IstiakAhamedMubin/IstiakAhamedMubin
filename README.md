@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **istiakop800@gmail.com**
 
-- 📄 Know about my experiences [Currently No Resume](Currently No Resume)
+- 📄 Know about my experiences [Currently No Resume]
 
 - ⚡ Fun fact **I think I am lazy**
 
