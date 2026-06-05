@@ -13,7 +13,7 @@
 - 🔭 **I’m currently working on : Java OOP Project
 - 🌱 **I’m currently learning : Data Structure & Algorithm
 - 🤔 **I’m looking for help with : CP
-- 💬 **Ask me about : AI & Tech
+- 💬 **Ask me about : AI and Tech
 - 📫 **How to reach me : 2024100000273@seu.edu.bd
 - 😄 **Pronouns : Istiak Ahamed
 - ⚡ **Fun fact : I think I am lazy
