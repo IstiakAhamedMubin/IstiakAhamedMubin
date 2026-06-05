@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 **A passionate CS Student from Bangladesh
-- 🔭 **I’m currently working on : Java Project
+- 🔭 **I’m currently working on : Java OOP Project
 - 🌱 **I’m currently learning : Data Structure & Algorithm
 - 🤔 **I’m looking for help with : CP
 - 💬 **Ask me about : Tech
