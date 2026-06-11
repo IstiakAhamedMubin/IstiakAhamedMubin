@@ -17,10 +17,11 @@
 <!-- Profile Views + Social Badges -->
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/IstiakAhamedMubin?label=Followers&style=for-the-badge&logo=github&color=64FFDA&labelColor=003d5c&cacheSeconds=3600)](https://github.com/IstiakAhamedMubin?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/IstiakAhamedMubin?label=Total%20Stars&style=for-the-badge&logo=github&color=00D4FF&labelColor=003d5c)](https://github.com/IstiakAhamedMubin)
-[![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/IstiakAhamedMubin&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=00D4FF&labelColor=003d5c)](https://github.com/IstiakAhamedMubin?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/IstiakAhamedMubin?label=Followers&style=for-the-badge&logo=github&color=64FFDA&labelColor=003d5c&cacheSeconds=0)](https://github.com/IstiakAhamedMubin?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/IstiakAhamedMubin?label=Total%20Stars&style=for-the-badge&logo=github&color=00D4FF&labelColor=003d5c&cacheSeconds=0&affiliations=OWNER)](https://github.com/IstiakAhamedMubin)
+[![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIstiakAhamedMubin&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=00D4FF&labelColor=003d5c)](https://github.com/IstiakAhamedMubin?tab=repositories)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Lover-64FFDA?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=003d5c)](https://github.com/IstiakAhamedMubin)
+
 </div>
 
 ---
