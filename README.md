@@ -24,7 +24,7 @@
 ![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIstiakAhamedMubin&query=%24.followers&label=Followers&style=for-the-badge&logo=github&color=64FFDA&labelColor=003d5c)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIstiakAhamedMubin&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=00D4FF&labelColor=003d5c)
 ![Stars](https://img.shields.io/badge/Total%20Stars-7-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=003d5c)
-![Open Source](https://img.shields.io/badge/Open%20Source-Lover-64FFDA?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=003d5c)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-64FFDA?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=003d5c)
 
 </div>
 
