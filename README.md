@@ -18,8 +18,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=IstiakAhamedMubin&label=Profile+Views&color=00D4FF&style=for-the-badge)](https://github.com/IstiakAhamedMubin)
-[![GitHub followers](https://img.shields.io/github/followers/IstiakAhamedMubin?label=Followers&style=for-the-badge&color=64FFDA&labelColor=003d5c)](https://github.com/IstiakAhamedMubin?tab=followers)
-
+[![GitHub followers](https://img.shields.io/github/followers/IstiakAhamedMubin?label=Followers&style=for-the-badge&logo=github&color=64FFDA&labelColor=003d5c&cacheSeconds=3600)](https://github.com/IstiakAhamedMubin?tab=followers)
 </div>
 
 ---
