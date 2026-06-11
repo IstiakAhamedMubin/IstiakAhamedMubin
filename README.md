@@ -1,100 +1,149 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Istiak%20Ahamed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=IstiakAhamedMubin">
-    <img src="https://komarev.com/ghpvc/?username=IstiakAhamedMubin&label=Profile%20views&color=00FFFF&style=flat-square" alt="IstiakAhamedMubin's profile views" />
-  </a>
-</p>
-
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-**A passionate CS Student from Bangladesh
-- 🔭 **I’m currently working on : Java OOP Project
-- 🌱 **I’m currently learning : Data Structure & Algorithm
-- 🤔 **I’m looking for help with : CP
-- 💬 **Ask me about : AI and Tech
-- 📫 **How to reach me : 2024100000273@seu.edu.bd
-- 😄 **Pronouns : Istiak Ahamed
-- ⚡ **Fun fact : There is nothing funny about me
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/istiak.ahmedmubin.9)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/istiak_mubin_ig)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2024100000273@seu.edu.bd) 
-
-## 🧠 My Focus Areas
-
-- Data Structure & Algorithm
-- Web Development
-- Software Development
-- AI & Machine Learning 
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/IstiakAhamedMubin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IstiakAhamedMubin&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="IstiakAhamedMubin's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=IstiakAhamedMubin&theme=monokai&hide_border=true&cache_seconds=86400" alt="IstiakAhamedMubin's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=IstiakAhamedMubin&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Istiak Ahamed's GitHub Trophies" />
-</p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Istiak%20Ahamed&fontSize=52&fontColor=00FFFF&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&descColor=ffffff&stroke=00FFFF&strokeWidth=2"/>
+
 </div>
 
+<!-- Typing Animation -->
+<div align="center">
 
-## 🛠️ Languages & Tools
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Hi+there!+I'm+Istiak+Ahamed+%F0%9F%91%8B;CS+Student+%40+Southeast+University;Learning+DSA+%26+Competitive+Programming;Passionate+about+AI+%26+Machine+Learning;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+</div>
 
-</p>
+---
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+<!-- Profile Views + Social Badges -->
+<div align="center">
 
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=IstiakAhamedMubin&label=Profile+Views&color=00FFFF&style=for-the-badge)](https://github.com/IstiakAhamedMubin)
+[![GitHub followers](https://img.shields.io/github/followers/IstiakAhamedMubin?label=Followers&style=for-the-badge&color=00FFFF&labelColor=0d1117)](https://github.com/IstiakAhamedMubin?tab=followers)
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+</div>
 
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/IstiakAhamedMubin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IstiakAhamedMubin&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+## 🌟 About Me
 
-![Top language](https://stats.pphat.top/languages?username=IstiakAhamedMubin)
-<br/>
+```yaml
+name       : Istiak Ahamed
+location   : Bangladesh 🇧🇩
+university : Southeast University
+email      : 2024100000273@seu.edu.bd
+pronouns   : He/Him
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://wa.me/1701636026">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:2024100000273@seu.edu.bd">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+currently:
+  - 🔭 Working on  → Java OOP Projects
+  - 🌱 Learning    → Data Structures & Algorithms
+  - 💡 Exploring   → Competitive Programming
+  - 🤖 Interested in → AI & Machine Learning
+
+ask me about : AI, Tech, Programming
+fun fact     : "I debug code faster than I write it 😄"
+```
+
+---
+
+## 🎯 Focus Areas
+
+<div align="center">
+
+| 🧩 DSA | 🌐 Web Dev | 🤖 AI/ML | 💻 Software Dev |
+|:---:|:---:|:---:|:---:|
+| Algorithms & Data Structures | Frontend & Backend | Machine Learning | OOP & Design Patterns |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/IstiakAhamedMubin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IstiakAhamedMubin&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=10&hide_border=false&border_color=00FFFF&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IstiakAhamedMubin&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&hide_border=false&border_color=00FFFF&bg_color=0d1117&title_color=00FFFF"/>
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IstiakAhamedMubin&theme=black-ice&hide_border=false&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=FF6B35&currStreakNum=ffffff&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=888888&background=0d1117)](https://github.com/IstiakAhamedMubin)
+
+</div>
+
+<div align="center">
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=IstiakAhamedMubin&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&column=7)](https://github.com/IstiakAhamedMubin)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Istiak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IstiakAhamedMubin&bg_color=0d1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=false&border_color=00FFFF&area_color=00FFFF)](https://github.com/IstiakAhamedMubin)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/istiak.ahmedmubin.9)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/istiak_mubin_ig)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2024100000273@seu.edu.bd)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/1701636026)
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+
+**👀 Watch my contributions get eaten!**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IstiakAhamedMubin/IstiakAhamedMubin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IstiakAhamedMubin/IstiakAhamedMubin/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/IstiakAhamedMubin/IstiakAhamedMubin/output/github-snake-dark.svg" />
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
+
+**💡 "Code is like humor. When you have to explain it, it's bad." — Cory House**
+
+⭐ *Star my repos if you find them helpful!*
+
+</div>
