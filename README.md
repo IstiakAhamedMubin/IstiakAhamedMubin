@@ -1,33 +1,26 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:001a2e,50:003d5c,100:006d8f&text=Istiak%20Ahamed&fontSize=52&fontColor=00D4FF&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&descColor=64FFDA&stroke=00D4FF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a0000,50:4d0000,100:800000&text=Istiak+Ahamed&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS+Student+%7C+Developer+%7C+Problem+Solver&descSize=18&descAlignY=55&descColor=ffcccc" width="100%"/>
 
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Hi+there!+I'm+Istiak+Ahamed+%F0%9F%91%8B;CS+Student+%40+Southeast+University;Learning+DSA+%26+Competitive+Programming;Passionate+about+AI+%26+Machine+Learning;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&multiline=false&random=false&width=650&lines=Hi+there!+I'm+Istiak+Ahamed+%F0%9F%91%8B;CS+Student+%40+Southeast+University;Learning+DSA+%26+Competitive+Programming;Passionate+about+AI+%26+Machine+Learning;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- Profile Views + Social Badges -->
+<!-- Badges -->
 <div align="center">
 
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-![Followers](https://img.shields.io/badge/Followers-9-64FFDA?style=for-the-badge&logo=github&logoColor=white&labelColor=003d5c)
-![Repos](https://img.shields.io/badge/Public%20Repos-6-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=003d5c)
-![Stars](https://img.shields.io/badge/Total%20Stars-7-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=003d5c)
-![Open Source](https://img.shields.io/badge/Open%20Source-Explorer-64FFDA?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=003d5c)
-
+![Followers](https://img.shields.io/badge/Followers-9-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=800000)
+![Repos](https://img.shields.io/badge/Public%20Repos-6-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=800000)
+![Stars](https://img.shields.io/badge/Total%20Stars-7-ffcccc?style=for-the-badge&logo=github&logoColor=white&labelColor=800000)
+![Open Source](https://img.shields.io/badge/Open%20Source-Explorer-ffcccc?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=800000)
 
 </div>
 
@@ -43,9 +36,9 @@ email      : 2024100000273@seu.edu.bd
 pronouns   : He/Him
 
 currently:
-  - 🔭 Working on  → Java OOP Projects
-  - 🌱 Learning    → Data Structures & Algorithms
-  - 💡 Exploring   → Competitive Programming
+  - 🔭 Working on   → Java OOP Projects
+  - 🌱 Learning     → Data Structures & Algorithms
+  - 💡 Exploring    → Competitive Programming
   - 🤖 Interested in → AI & Machine Learning
 
 ask me about : AI, Tech, Programming
@@ -81,7 +74,7 @@ fun fact     : "I debug code faster than I write it 😄"
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-800000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -92,20 +85,21 @@ fun fact     : "I debug code faster than I write it 😄"
 <div align="center">
 
 <a href="https://github.com/IstiakAhamedMubin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IstiakAhamedMubin&show_icons=true&theme=nord&include_all_commits=true&count_private=true&border_radius=10&hide_border=false&border_color=00D4FF&bg_color=001a2e&title_color=00D4FF&icon_color=64FFDA"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IstiakAhamedMubin&langs_count=8&layout=compact&theme=nord&border_radius=10&hide_border=false&border_color=00D4FF&bg_color=001a2e&title_color=00D4FF"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IstiakAhamedMubin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=false&border_color=FF4444&bg_color=1a0000&title_color=ffffff&icon_color=FF4444"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IstiakAhamedMubin&langs_count=8&layout=compact&theme=radical&border_radius=10&hide_border=false&border_color=FF4444&bg_color=1a0000&title_color=ffffff"/>
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IstiakAhamedMubin&theme=nord&hide_border=false&border=00D4FF&stroke=00D4FF&ring=64FFDA&fire=00D4FF&currStreakNum=ffffff&sideNums=00D4FF&currStreakLabel=64FFDA&sideLabels=64FFDA&dates=888888&background=001a2e)](https://github.com/IstiakAhamedMubin)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IstiakAhamedMubin&theme=radical&hide_border=false&border=FF4444&stroke=FF4444&ring=ffffff&fire=FF4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF4444&sideLabels=ffcccc&dates=ffcccc&background=1a0000)](https://github.com/IstiakAhamedMubin)
 
 </div>
 
 <div align="center">
 
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=IstiakAhamedMubin&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/IstiakAhamedMubin)
 
 </div>
 
@@ -113,7 +107,7 @@ fun fact     : "I debug code faster than I write it 😄"
 
 ## 📈 Contribution Graph
 
-[![Istiak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IstiakAhamedMubin&bg_color=001a2e&color=00D4FF&line=64FFDA&point=ffffff&area=true&hide_border=false&border_color=00D4FF&area_color=006d8f)](https://github.com/IstiakAhamedMubin)
+[![Istiak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IstiakAhamedMubin&bg_color=1a0000&color=ffffff&line=FF4444&point=ffffff&area=true&hide_border=false&border_color=FF4444&area_color=4d0000)](https://github.com/IstiakAhamedMubin)
 
 ---
 
@@ -130,25 +124,9 @@ fun fact     : "I debug code faster than I write it 😄"
 
 ---
 
-<!-- Snake Animation -->
 <div align="center">
 
-**👀 Watch my contributions get eaten!**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IstiakAhamedMubin/IstiakAhamedMubin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IstiakAhamedMubin/IstiakAhamedMubin/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/IstiakAhamedMubin/IstiakAhamedMubin/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a2e,50:003d5c,100:006d8f&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:4d0000,100:800000&height=120&section=footer&animation=twinkling" width="100%"/>
 
 **💡 "Code is like humor. When you have to explain it, it's bad." — Cory House**
 
