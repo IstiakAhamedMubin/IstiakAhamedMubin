@@ -14,7 +14,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=IstiakAhamedMubin&style=flat-square&color=58a6ff&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/IstiakAhamedMubin?style=flat-square&color=58a6ff&label=Followers)
 ![Stars](https://img.shields.io/github/stars/IstiakAhamedMubin?style=flat-square&color=58a6ff&label=Total+Stars)
 
